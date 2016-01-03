@@ -1,5 +1,3 @@
-//music visualization script
-
 function playAudioVisualize(track) {
     var bars = 50;
     var waveResolution = 128;
