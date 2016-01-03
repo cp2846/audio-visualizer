@@ -5,7 +5,7 @@ A JavaScript-based audio visualizer that supports frequency (bar) visualization 
 #Using the audio visualizer in your project
 Simply add this HTML to your document:
 
-	<script src="[path to visualizer].js">
+	<script src="[path to visualizer].js"></script>
 	<div id="audio-container">
 	    <canvas id="audio-display"></canvas>
 	</div>
